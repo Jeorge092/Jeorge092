@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @Jeorge092
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Jeorge092/Jeorge092 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in You <3
+- 🌱 I’m currently learning to sing
+- 💞️ I’m looking to collaborate on Games
+- 📫 How to reach me Discord
